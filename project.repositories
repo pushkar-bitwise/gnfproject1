@@ -1,0 +1,36 @@
+<project-repositories>
+  <repositories>
+    <repository>
+      <include>true</include>
+      <metadata>
+        <id>local</id>
+        <url>$HOME\.m2\repository</url>
+        <source>LOCAL</source>
+      </metadata>
+    </repository>
+    <repository>
+      <include>true</include>
+      <metadata>
+        <id>kie-workbench</id>
+        <url>https://www.myget.org/F/bitwisebre/maven</url>
+        <source>SETTINGS</source>
+      </metadata>
+    </repository>
+    <repository>
+      <include>true</include>
+      <metadata>
+        <id>central</id>
+        <url>https://repo.maven.apache.org/maven2</url>
+        <source>PROJECT</source>
+      </metadata>
+    </repository>
+    <repository>
+      <include>true</include>
+      <metadata>
+        <id>kie-workbench</id>
+        <url>https://www.myget.org/F/bitwisebre/maven</url>
+        <source>DISTRIBUTION_MANAGEMENT</source>
+      </metadata>
+    </repository>
+  </repositories>
+</project-repositories>
