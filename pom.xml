@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.globalpayments.gnf.discover</groupId>
   <artifactId>gnfproject1</artifactId>
-  <version>1.1.4</version>
+  <version>1.1.5</version>
   <packaging>kjar</packaging>
   <name>gnfproject1</name>
   <description></description>
